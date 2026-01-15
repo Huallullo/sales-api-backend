@@ -28,3 +28,4 @@ module.exports = {
   sql,
   poolPromise
 };
+module.ConnectionPool = sql.ConnectionPool;

@@ -18,7 +18,6 @@ El proyecto implementa un CRUD completo siguiendo buenas prácticas de desarroll
 ---
 
 ## Estructura del Proyecto
-
 sales-api-backend/
 ├── src/
 │ ├── app.js
